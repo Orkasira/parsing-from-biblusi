@@ -1,1 +1,1 @@
-# ეს კოდი პარსავს ბიბლუსის საიტს 1-დან 5 გვერდის ჩათვლით
+This code scrapes the Biblusi site from pages 1 to 5 inclusive.
